@@ -1,0 +1,21 @@
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb~
+
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# System
+.DS_Store
+Thumbs.db
+
+# Colab
+sample_data/
+
+# Data files
+nyc_taxi_trip_duration.csv
